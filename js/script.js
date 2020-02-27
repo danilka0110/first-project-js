@@ -19,4 +19,3 @@ appData.expenses.a1 = a2;
 appData.expenses.a3 = a4;
 
 alert(appData.budget / 30);
-console.log("proverka");
